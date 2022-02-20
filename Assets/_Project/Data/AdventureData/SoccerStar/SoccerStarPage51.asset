@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a74506d4379d4bd3a1cc97a7d2779fec, type: 3}
+  m_Name: SoccerStarPage51
+  m_EditorClassIdentifier: 
+  titleImage: {fileID: 21300000, guid: c7b0c612eab34467ab1969a68e5a4a46, type: 3}
+  narrativeText: SOCCER_STAR_PAGE_51
+  transitions:
+  - Description: SOCCER_STAR_TRANSITION_PAGE_89
+    NextNode: {fileID: 11400000, guid: 05b01c1df65ee4ae49a4bf25893f97f8, type: 2}
+    Sound: {fileID: 0}
+  - Description: SOCCER_STAR_TRANSITION_PAGE_58
+    NextNode: {fileID: 11400000, guid: 68e2def3967874f5ca749105eb2f9424, type: 2}
+    Sound: {fileID: 0}
+  - Description: SOCCER_STAR_TRANSITION_PAGE_108
+    NextNode: {fileID: 11400000, guid: 88990442d8f2d4129a39f39c1ec867b5, type: 2}
+    Sound: {fileID: 0}
